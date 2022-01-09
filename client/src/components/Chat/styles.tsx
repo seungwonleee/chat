@@ -15,3 +15,8 @@ export const styleForm = css`
     width: 10rem;
   }
 `;
+
+export const styleChat = css`
+  list-style: none;
+  font-size: 1.6rem;
+`;
